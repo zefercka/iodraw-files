@@ -278,6 +278,9 @@
         <mxCell id="pekS5D3kAttKXGlSDP82-80" value="дата начала начисления пени" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="840" y="690" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pekS5D3kAttKXGlSDP82-81" value="дата окончания договора" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="840" y="740" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
