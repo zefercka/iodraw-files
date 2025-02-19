@@ -317,8 +317,8 @@
         <mxCell id="pekS5D3kAttKXGlSDP82-96" value="1, 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pekS5D3kAttKXGlSDP82-98" value="1, *" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="570" width="60" height="30" as="geometry" />
+        <mxCell id="pekS5D3kAttKXGlSDP82-98" value="1, 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
