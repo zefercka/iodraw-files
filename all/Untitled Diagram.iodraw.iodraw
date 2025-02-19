@@ -296,15 +296,6 @@
         <mxCell id="pekS5D3kAttKXGlSDP82-79" value="дата заключения" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="940" y="520" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pekS5D3kAttKXGlSDP82-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pekS5D3kAttKXGlSDP82-80" target="pekS5D3kAttKXGlSDP82-117">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1130" y="590" />
-              <mxPoint x="1130" y="610" />
-              <mxPoint x="1210" y="610" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-80" value="дата начала начисления пени" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="940" y="570" width="110" height="40" as="geometry" />
         </mxCell>
