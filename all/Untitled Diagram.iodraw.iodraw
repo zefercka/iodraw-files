@@ -302,6 +302,12 @@
         <mxCell id="pekS5D3kAttKXGlSDP82-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pekS5D3kAttKXGlSDP82-91" target="pekS5D3kAttKXGlSDP82-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="660" />
+              <mxPoint x="110" y="660" />
+              <mxPoint x="110" y="70" />
+              <mxPoint x="425" y="70" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-91" value="Заключает" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -318,6 +324,9 @@
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-99" value="Возврашает" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pekS5D3kAttKXGlSDP82-101" value="1, 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="630" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
