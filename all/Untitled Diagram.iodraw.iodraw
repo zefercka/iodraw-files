@@ -236,8 +236,8 @@
         <mxCell id="pekS5D3kAttKXGlSDP82-65" value="рег_номер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="910" y="500" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pekS5D3kAttKXGlSDP82-66" value="рег_номер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="920" y="510" width="110" height="40" as="geometry" />
+        <mxCell id="pekS5D3kAttKXGlSDP82-66" value="ФИО" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="910" y="550" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
