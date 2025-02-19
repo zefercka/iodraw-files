@@ -276,22 +276,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pekS5D3kAttKXGlSDP82-77" target="pekS5D3kAttKXGlSDP82-81">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="560" />
+              <mxPoint x="890" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-77" value="Соглашение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="520" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-78" value="рег_номер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="940" y="520" width="110" height="40" as="geometry" />
+          <mxGeometry x="940" y="470" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-79" value="дата заключения" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="940" y="570" width="110" height="40" as="geometry" />
+          <mxGeometry x="940" y="520" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-80" value="дата начала начисления пени" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="940" y="620" width="110" height="40" as="geometry" />
+          <mxGeometry x="940" y="570" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-81" value="дата окончания договора" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="940" y="670" width="110" height="40" as="geometry" />
+          <mxGeometry x="940" y="620" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
