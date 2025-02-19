@@ -138,8 +138,9 @@
         <mxCell id="pekS5D3kAttKXGlSDP82-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pekS5D3kAttKXGlSDP82-28" target="pekS5D3kAttKXGlSDP82-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="960" y="110" />
-              <mxPoint x="960" y="360" />
+              <mxPoint x="1050" y="110" />
+              <mxPoint x="1050" y="360" />
+              <mxPoint x="1065" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
