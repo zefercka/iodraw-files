@@ -103,10 +103,8 @@
         <mxCell id="pekS5D3kAttKXGlSDP82-24" value="год" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="415" y="370" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pekS5D3kAttKXGlSDP82-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pekS5D3kAttKXGlSDP82-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="890" y="140" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="pekS5D3kAttKXGlSDP82-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pekS5D3kAttKXGlSDP82-28" target="pekS5D3kAttKXGlSDP82-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-28" value="Предмет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="90" width="100" height="40" as="geometry" />
