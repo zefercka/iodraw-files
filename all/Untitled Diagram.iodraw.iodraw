@@ -350,13 +350,13 @@
           <mxGeometry x="700" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-106" value="день" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="250" width="80" height="40" as="geometry" />
+          <mxGeometry x="1090" y="570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-107" value="месяц" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="200" width="80" height="40" as="geometry" />
+          <mxGeometry x="1090" y="520" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-108" value="год" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="150" width="80" height="40" as="geometry" />
+          <mxGeometry x="1090" y="470" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
