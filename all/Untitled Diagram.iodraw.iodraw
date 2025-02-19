@@ -233,6 +233,9 @@
         <mxCell id="pekS5D3kAttKXGlSDP82-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pekS5D3kAttKXGlSDP82-64" target="pekS5D3kAttKXGlSDP82-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="pekS5D3kAttKXGlSDP82-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pekS5D3kAttKXGlSDP82-64" target="pekS5D3kAttKXGlSDP82-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-64" value="Сотрудник" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="450" width="100" height="40" as="geometry" />
         </mxCell>
