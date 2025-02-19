@@ -301,7 +301,7 @@
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pekS5D3kAttKXGlSDP82-91">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="430" as="targetPoint" />
+            <mxPoint x="100" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-91" value="Заключает" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
