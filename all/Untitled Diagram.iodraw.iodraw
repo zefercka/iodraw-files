@@ -293,6 +293,9 @@
         <mxCell id="pekS5D3kAttKXGlSDP82-81" value="дата окончания договора" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="940" y="620" width="110" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pekS5D3kAttKXGlSDP82-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pekS5D3kAttKXGlSDP82-91" target="pekS5D3kAttKXGlSDP82-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-91" value="Заключает" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="550" width="160" height="80" as="geometry" />
         </mxCell>
