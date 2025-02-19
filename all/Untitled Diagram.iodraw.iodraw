@@ -234,7 +234,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pekS5D3kAttKXGlSDP82-64" target="pekS5D3kAttKXGlSDP82-66">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="520" />
+              <mxPoint x="890" y="570" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-64" value="Сотрудник" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="500" width="100" height="40" as="geometry" />
@@ -244,6 +249,9 @@
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-66" value="ФИО" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="910" y="550" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pekS5D3kAttKXGlSDP82-69" value="Сдаёт предмет&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="80" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
