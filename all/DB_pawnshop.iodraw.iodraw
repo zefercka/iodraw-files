@@ -165,25 +165,25 @@
           <mxGeometry x="780" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-29" value="рег_номер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="160" width="110" height="40" as="geometry" />
+          <mxGeometry x="1040" y="140" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-30" value="категория" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="210" width="110" height="40" as="geometry" />
+          <mxGeometry x="1040" y="190" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-31" value="название" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="260" width="110" height="40" as="geometry" />
+          <mxGeometry x="1040" y="240" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-32" value="наличие&amp;nbsp;&lt;div&gt;дефектов&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="1040" y="290" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-33" value="оценочная&lt;div&gt;стоимость&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="360" width="110" height="40" as="geometry" />
+          <mxGeometry x="1040" y="340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-34" value="уплаченая&lt;div&gt;сумма&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="410" width="110" height="40" as="geometry" />
+          <mxGeometry x="1040" y="390" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-35" value="примечания" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="160" width="110" height="40" as="geometry" />
+          <mxGeometry x="1180" y="140" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pekS5D3kAttKXGlSDP82-36" target="pekS5D3kAttKXGlSDP82-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -195,25 +195,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-36" value="дата выкупа" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="210" width="110" height="40" as="geometry" />
+          <mxGeometry x="1180" y="190" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-37" value="пени за несвоевременный выкуп" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="260" width="110" height="40" as="geometry" />
+          <mxGeometry x="1180" y="240" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-38" value="уплачено за&amp;nbsp;&lt;div&gt;выкуп&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="1180" y="290" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-39" value="кто вернул" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1180" y="360" width="110" height="40" as="geometry" />
+          <mxGeometry x="1180" y="340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-52" value="день" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="260" width="80" height="40" as="geometry" />
+          <mxGeometry x="1340" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-53" value="месяц" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="210" width="80" height="40" as="geometry" />
+          <mxGeometry x="1340" y="190" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-54" value="год" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="1340" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pekS5D3kAttKXGlSDP82-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pekS5D3kAttKXGlSDP82-58" target="pekS5D3kAttKXGlSDP82-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
