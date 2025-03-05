@@ -355,6 +355,9 @@
         <mxCell id="pekS5D3kAttKXGlSDP82-105" value="1, *" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="700" y="330" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NlIKhml7-yJrkLkeu7Hs-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NlIKhml7-yJrkLkeu7Hs-1" target="pekS5D3kAttKXGlSDP82-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NlIKhml7-yJrkLkeu7Hs-1" value="Заключает" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="635" width="160" height="80" as="geometry" />
         </mxCell>
