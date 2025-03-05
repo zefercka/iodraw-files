@@ -363,6 +363,12 @@
         <mxCell id="NlIKhml7-yJrkLkeu7Hs-3" value="1, *" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="640" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NlIKhml7-yJrkLkeu7Hs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NlIKhml7-yJrkLkeu7Hs-7" target="pekS5D3kAttKXGlSDP82-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NlIKhml7-yJrkLkeu7Hs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NlIKhml7-yJrkLkeu7Hs-7" target="pekS5D3kAttKXGlSDP82-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NlIKhml7-yJrkLkeu7Hs-7" value="Содержит" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="280" width="120" height="70" as="geometry" />
         </mxCell>
