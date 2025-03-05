@@ -375,6 +375,9 @@
         <mxCell id="NlIKhml7-yJrkLkeu7Hs-10" value="1, 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="345" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NlIKhml7-yJrkLkeu7Hs-11" value="1, *" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
