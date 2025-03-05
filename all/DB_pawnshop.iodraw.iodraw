@@ -306,7 +306,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pekS5D3kAttKXGlSDP82-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pekS5D3kAttKXGlSDP82-91" target="pekS5D3kAttKXGlSDP82-1" edge="1">
+        <mxCell id="pekS5D3kAttKXGlSDP82-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="NlIKhml7-yJrkLkeu7Hs-1" target="pekS5D3kAttKXGlSDP82-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="50" as="targetPoint" />
             <Array as="points">
@@ -357,7 +357,7 @@
           <mxGeometry x="700" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NlIKhml7-yJrkLkeu7Hs-1" value="Заключает" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="560" width="160" height="80" as="geometry" />
+          <mxGeometry x="560" y="670" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
