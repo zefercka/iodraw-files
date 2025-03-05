@@ -310,8 +310,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="50" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="710" />
-              <mxPoint x="640" y="640" />
+              <mxPoint x="530" y="710" />
+              <mxPoint x="530" y="640" />
               <mxPoint x="110" y="640" />
               <mxPoint x="110" y="70" />
               <mxPoint x="425" y="70" />
@@ -358,7 +358,7 @@
           <mxGeometry x="700" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NlIKhml7-yJrkLkeu7Hs-1" value="Заключает" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="670" width="160" height="80" as="geometry" />
+          <mxGeometry x="560" y="650" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
