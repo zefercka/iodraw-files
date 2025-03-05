@@ -372,8 +372,8 @@
         <mxCell id="NlIKhml7-yJrkLkeu7Hs-7" value="Содержит" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="280" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NlIKhml7-yJrkLkeu7Hs-10" value="1, *" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="450" width="60" height="30" as="geometry" />
+        <mxCell id="NlIKhml7-yJrkLkeu7Hs-10" value="1, 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="345" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
