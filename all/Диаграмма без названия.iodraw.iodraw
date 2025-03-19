@@ -319,6 +319,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Gh2XdmMa2RLIeBN_xsCM-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-82" target="Gh2XdmMa2RLIeBN_xsCM-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="610" />
+              <mxPoint x="740" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-82" value="Заключает" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="570" width="160" height="80" as="geometry" />
         </mxCell>
