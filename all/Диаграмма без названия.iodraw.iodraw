@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0 (Edition Yx GX 03)" version="24.7.17">
   <diagram name="Page-1" id="pR6WKnqpMVXCab5e5VtB">
-    <mxGraphModel dx="1008" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2880" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,40 +106,40 @@
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-37" target="Gh2XdmMa2RLIeBN_xsCM-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="981" y="420" />
-              <mxPoint x="981" y="470" />
+              <mxPoint x="770" y="820" />
+              <mxPoint x="770" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-37" target="Gh2XdmMa2RLIeBN_xsCM-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="981" y="420" />
-              <mxPoint x="981" y="520" />
+              <mxPoint x="770" y="820" />
+              <mxPoint x="770" y="920" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-37" target="Gh2XdmMa2RLIeBN_xsCM-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="981" y="420" />
-              <mxPoint x="981" y="570" />
+              <mxPoint x="770" y="820" />
+              <mxPoint x="770" y="970" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-37" target="Gh2XdmMa2RLIeBN_xsCM-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="981" y="420" />
-              <mxPoint x="981" y="620" />
+              <mxPoint x="770" y="820" />
+              <mxPoint x="770" y="1020" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-37" target="Gh2XdmMa2RLIeBN_xsCM-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="981" y="420" />
-              <mxPoint x="981" y="670" />
+              <mxPoint x="770" y="820" />
+              <mxPoint x="770" y="1070" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -162,28 +162,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-37" value="Предмет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="801" y="400" width="100" height="40" as="geometry" />
+          <mxGeometry x="590" y="800" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-38" value="рег_номер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="861" y="450" width="110" height="40" as="geometry" />
+          <mxGeometry x="650" y="850" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-39" value="категория" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="861" y="500" width="110" height="40" as="geometry" />
+          <mxGeometry x="650" y="900" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-40" value="название" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="861" y="550" width="110" height="40" as="geometry" />
+          <mxGeometry x="650" y="950" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-41" value="наличие&amp;nbsp;&lt;div&gt;дефектов&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="861" y="600" width="110" height="40" as="geometry" />
+          <mxGeometry x="650" y="1000" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-42" value="оценочная&lt;div&gt;стоимость&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="861" y="650" width="110" height="40" as="geometry" />
+          <mxGeometry x="650" y="1050" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-43" value="уплаченая&lt;div&gt;сумма&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="861" y="700" width="110" height="40" as="geometry" />
+          <mxGeometry x="650" y="1100" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-44" value="примечания" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="450" width="110" height="40" as="geometry" />
+          <mxGeometry x="790" y="850" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-48" target="Gh2XdmMa2RLIeBN_xsCM-54">
           <mxGeometry relative="1" as="geometry" />
@@ -195,25 +195,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-48" value="дата выкупа" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="500" width="110" height="40" as="geometry" />
+          <mxGeometry x="790" y="900" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-49" value="пени за несвоевременный выкуп" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="550" width="110" height="40" as="geometry" />
+          <mxGeometry x="790" y="950" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-50" value="уплачено за&amp;nbsp;&lt;div&gt;выкуп&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="600" width="110" height="40" as="geometry" />
+          <mxGeometry x="790" y="1000" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-51" value="кто вернул" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="650" width="110" height="40" as="geometry" />
+          <mxGeometry x="790" y="1050" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-52" value="день" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="550" width="80" height="40" as="geometry" />
+          <mxGeometry x="950" y="950" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-53" value="месяц" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="500" width="80" height="40" as="geometry" />
+          <mxGeometry x="950" y="900" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-54" value="год" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="450" width="80" height="40" as="geometry" />
+          <mxGeometry x="950" y="850" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-57" target="Gh2XdmMa2RLIeBN_xsCM-10">
           <mxGeometry relative="1" as="geometry" />
