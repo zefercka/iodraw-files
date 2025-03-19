@@ -106,40 +106,40 @@
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-37" target="Gh2XdmMa2RLIeBN_xsCM-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="970" y="130" />
-              <mxPoint x="970" y="180" />
+              <mxPoint x="981" y="420" />
+              <mxPoint x="981" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-37" target="Gh2XdmMa2RLIeBN_xsCM-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="970" y="130" />
-              <mxPoint x="970" y="230" />
+              <mxPoint x="981" y="420" />
+              <mxPoint x="981" y="520" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-37" target="Gh2XdmMa2RLIeBN_xsCM-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="970" y="130" />
-              <mxPoint x="970" y="280" />
+              <mxPoint x="981" y="420" />
+              <mxPoint x="981" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-37" target="Gh2XdmMa2RLIeBN_xsCM-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="970" y="130" />
-              <mxPoint x="970" y="330" />
+              <mxPoint x="981" y="420" />
+              <mxPoint x="981" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-37" target="Gh2XdmMa2RLIeBN_xsCM-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="970" y="130" />
-              <mxPoint x="970" y="380" />
+              <mxPoint x="981" y="420" />
+              <mxPoint x="981" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -162,28 +162,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-37" value="Предмет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="110" width="100" height="40" as="geometry" />
+          <mxGeometry x="801" y="400" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-38" value="рег_номер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="850" y="160" width="110" height="40" as="geometry" />
+          <mxGeometry x="861" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-39" value="категория" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="850" y="210" width="110" height="40" as="geometry" />
+          <mxGeometry x="861" y="500" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-40" value="название" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="850" y="260" width="110" height="40" as="geometry" />
+          <mxGeometry x="861" y="550" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-41" value="наличие&amp;nbsp;&lt;div&gt;дефектов&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="850" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="861" y="600" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-42" value="оценочная&lt;div&gt;стоимость&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="850" y="360" width="110" height="40" as="geometry" />
+          <mxGeometry x="861" y="650" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-43" value="уплаченая&lt;div&gt;сумма&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="850" y="410" width="110" height="40" as="geometry" />
+          <mxGeometry x="861" y="700" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-44" value="примечания" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="990" y="160" width="110" height="40" as="geometry" />
+          <mxGeometry x="1001" y="450" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-48" target="Gh2XdmMa2RLIeBN_xsCM-54">
           <mxGeometry relative="1" as="geometry" />
@@ -195,25 +195,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-48" value="дата выкупа" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="990" y="210" width="110" height="40" as="geometry" />
+          <mxGeometry x="1001" y="500" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-49" value="пени за несвоевременный выкуп" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="990" y="260" width="110" height="40" as="geometry" />
+          <mxGeometry x="1001" y="550" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-50" value="уплачено за&amp;nbsp;&lt;div&gt;выкуп&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="990" y="310" width="110" height="40" as="geometry" />
+          <mxGeometry x="1001" y="600" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-51" value="кто вернул" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="990" y="360" width="110" height="40" as="geometry" />
+          <mxGeometry x="1001" y="650" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-52" value="день" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="260" width="80" height="40" as="geometry" />
+          <mxGeometry x="1161" y="550" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-53" value="месяц" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="210" width="80" height="40" as="geometry" />
+          <mxGeometry x="1161" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-54" value="год" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="1161" y="450" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-57" target="Gh2XdmMa2RLIeBN_xsCM-10">
           <mxGeometry relative="1" as="geometry" />
@@ -322,8 +322,8 @@
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-82" target="Gh2XdmMa2RLIeBN_xsCM-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="740" y="610" />
-              <mxPoint x="740" y="720" />
+              <mxPoint x="760" y="610" />
+              <mxPoint x="760" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
