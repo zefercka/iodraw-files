@@ -281,23 +281,23 @@
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-74" target="Gh2XdmMa2RLIeBN_xsCM-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gh2XdmMa2RLIeBN_xsCM-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-97" target="Gh2XdmMa2RLIeBN_xsCM-78">
+        <mxCell id="Gh2XdmMa2RLIeBN_xsCM-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-74" target="Gh2XdmMa2RLIeBN_xsCM-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-74" value="Соглашение" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="700" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-75" value="рег_номер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="408" y="690" width="110" height="40" as="geometry" />
+          <mxGeometry x="380" y="700" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-76" value="дата заключения" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="408" y="740" width="110" height="40" as="geometry" />
+          <mxGeometry x="380" y="750" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-77" value="дата начала начисления пени" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="408" y="790" width="110" height="40" as="geometry" />
+          <mxGeometry x="380" y="800" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-78" value="дата окончания договора" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="408" y="840" width="110" height="40" as="geometry" />
+          <mxGeometry x="380" y="850" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-82" target="Gh2XdmMa2RLIeBN_xsCM-62">
           <mxGeometry relative="1" as="geometry">
@@ -359,15 +359,6 @@
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-90" value="1, *" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="350" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Gh2XdmMa2RLIeBN_xsCM-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-74" target="Gh2XdmMa2RLIeBN_xsCM-97">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="720" as="sourcePoint" />
-            <mxPoint x="518" y="860" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Gh2XdmMa2RLIeBN_xsCM-97" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="812" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
