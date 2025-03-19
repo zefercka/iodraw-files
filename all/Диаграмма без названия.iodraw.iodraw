@@ -272,15 +272,6 @@
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-69" value="1, *" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Gh2XdmMa2RLIeBN_xsCM-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-74" target="Gh2XdmMa2RLIeBN_xsCM-75">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="640" y="770" />
-              <mxPoint x="820" y="770" />
-              <mxPoint x="820" y="510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-74" target="Gh2XdmMa2RLIeBN_xsCM-76">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -312,7 +303,7 @@
           <mxGeometry x="590" y="700" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-75" value="рег_номер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="470" y="760" width="110" height="40" as="geometry" />
+          <mxGeometry x="414" y="740" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-76" value="дата заключения" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="950" y="540" width="110" height="40" as="geometry" />
