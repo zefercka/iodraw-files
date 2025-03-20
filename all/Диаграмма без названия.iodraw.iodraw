@@ -376,11 +376,14 @@
         <mxCell id="mGXANnzspwhyi1Lh7rhX-8" value="Поступает" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="570" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mGXANnzspwhyi1Lh7rhX-11" value="1, *" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mGXANnzspwhyi1Lh7rhX-11" value="1, 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="580" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mGXANnzspwhyi1Lh7rhX-12" value="цена товара" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="960" y="590" width="110" height="40" as="geometry" />
+          <mxGeometry x="990" y="590" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mGXANnzspwhyi1Lh7rhX-14" value="1, 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="590" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
