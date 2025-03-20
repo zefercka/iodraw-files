@@ -355,6 +355,9 @@
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-90" value="1, *" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="350" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mGXANnzspwhyi1Lh7rhX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mGXANnzspwhyi1Lh7rhX-7" target="mGXANnzspwhyi1Lh7rhX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mGXANnzspwhyi1Lh7rhX-7" value="Магазин" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="590" width="100" height="40" as="geometry" />
         </mxCell>
@@ -376,8 +379,8 @@
         <mxCell id="mGXANnzspwhyi1Lh7rhX-11" value="1, *" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="580" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mGXANnzspwhyi1Lh7rhX-12" value="рег_номер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="740" width="110" height="40" as="geometry" />
+        <mxCell id="mGXANnzspwhyi1Lh7rhX-12" value="цена товара" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="960" y="590" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
