@@ -306,18 +306,18 @@
           <mxGeometry x="790" y="730" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-75" value="рег_номер" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="990" y="730" width="110" height="40" as="geometry" />
+          <mxGeometry x="990" y="655" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mGXANnzspwhyi1Lh7rhX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-76" target="mGXANnzspwhyi1Lh7rhX-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1110" y="800" />
-              <mxPoint x="1110" y="850" />
+              <mxPoint x="1110" y="725" />
+              <mxPoint x="1110" y="775" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-76" value="дата заключения" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="990" y="780" width="110" height="40" as="geometry" />
+          <mxGeometry x="990" y="705" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mGXANnzspwhyi1Lh7rhX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-77" target="mGXANnzspwhyi1Lh7rhX-18">
           <mxGeometry relative="1" as="geometry" />
@@ -329,18 +329,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-77" value="дата начала начисления пени" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="990" y="830" width="110" height="40" as="geometry" />
+          <mxGeometry x="990" y="755" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mGXANnzspwhyi1Lh7rhX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-78" target="mGXANnzspwhyi1Lh7rhX-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1110" y="900" />
-              <mxPoint x="1110" y="850" />
+              <mxPoint x="1110" y="825" />
+              <mxPoint x="1110" y="775" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-78" value="дата окончания договора" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="990" y="880" width="110" height="40" as="geometry" />
+          <mxGeometry x="990" y="805" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Gh2XdmMa2RLIeBN_xsCM-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Gh2XdmMa2RLIeBN_xsCM-82" target="Gh2XdmMa2RLIeBN_xsCM-62" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -434,13 +434,13 @@
           <mxGeometry x="640" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mGXANnzspwhyi1Lh7rhX-17" value="день" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="880" width="80" height="40" as="geometry" />
+          <mxGeometry x="1150" y="805" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mGXANnzspwhyi1Lh7rhX-18" value="месяц" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="830" width="80" height="40" as="geometry" />
+          <mxGeometry x="1150" y="755" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mGXANnzspwhyi1Lh7rhX-19" value="год" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="780" width="80" height="40" as="geometry" />
+          <mxGeometry x="1150" y="705" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
