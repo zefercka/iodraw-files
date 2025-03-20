@@ -356,9 +356,9 @@
           <mxGeometry x="710" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mGXANnzspwhyi1Lh7rhX-7" value="Магазин" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="570" width="100" height="40" as="geometry" />
+          <mxGeometry x="790" y="590" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mGXANnzspwhyi1Lh7rhX-8" value="Принимает" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mGXANnzspwhyi1Lh7rhX-8" value="Поступает" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="570" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
